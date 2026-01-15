@@ -1,2 +1,2 @@
-# first
-this is a description of first 
+hello.python
+("Hello! Welcome to my GitHub Python repository.")
